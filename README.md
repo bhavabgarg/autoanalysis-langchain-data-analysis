@@ -28,7 +28,9 @@ A fully automated data analysis web application powered by Streamlit, LangChain,
 5. Run the Streamlit app: `streamlit run app.py`
 
 ## Screenshots
-<img width="805" height="438" alt="image" src="https://github.com/user-attachments/assets/1d9e6b5e-f6de-41df-8cb4-c0cf2db5594d" />
+<img width="1914" height="853" alt="Screenshot 2026-04-14 181657" src="https://github.com/user-attachments/assets/d3111e06-651e-4bbd-a4b2-8bfd8d56a017" />
+
+<img width="1887" height="843" alt="Screenshot 2026-04-14 181811" src="https://github.com/user-attachments/assets/b8a48d43-2fa5-4104-a471-885148ed5f33" />
 
 
 ## Tech Stack
@@ -39,5 +41,3 @@ A fully automated data analysis web application powered by Streamlit, LangChain,
 - **LLM**: Groq (Llama-3-70b-8192)
 - **Database (In-memory)**: SQLAlchemy & SQLite
 
-## License
-MIT License
