@@ -28,7 +28,8 @@ A fully automated data analysis web application powered by Streamlit, LangChain,
 5. Run the Streamlit app: `streamlit run app.py`
 
 ## Screenshots
-*(Insert Screenshots Here)*
+<img width="805" height="438" alt="image" src="https://github.com/user-attachments/assets/1d9e6b5e-f6de-41df-8cb4-c0cf2db5594d" />
+
 
 ## Tech Stack
 - **Frontend/Framework**: Streamlit
